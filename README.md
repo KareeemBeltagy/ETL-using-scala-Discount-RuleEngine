@@ -5,7 +5,7 @@ This is a Scala program that processes CSV files in a specified directory and ap
 
 Clone the repository from GitHub:
 
-git clone https://github.com/ahmedmohamedalislouma/discount-rule-engine.git
+git clone https://github.com/KareeemBeltagy/ETL-using-scala-Discount-RuleEngine.git
 
 
 # SBT Configuration
